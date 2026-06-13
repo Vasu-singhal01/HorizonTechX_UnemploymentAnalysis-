@@ -8,6 +8,10 @@ This project analyzes unemployment trends in India, with a focus on the impact o
 It includes data cleaning, exploratory data analysis (EDA), and rich interactive visualizations
 built using Plotly — all displayed in a single dashboard.
 
+## 📸 Dashboard Preview
+![Dashboard 1](dashboard_1.png)
+![Dashboard 2](dashboard_2.png)
+
 ## 📁 Project Structure
 ```
 HorizonTechX_UnemploymentAnalysis/
