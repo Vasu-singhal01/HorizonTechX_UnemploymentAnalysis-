@@ -64,4 +64,4 @@ Kaggle: https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 - Several states saw a sharp spike in unemployment during the lockdown period
 
 ## 👤 Author
-Vasu | Horizon TechX Data Science Intern
+Vasu Singhal | Bennett University | Horizon TechX Data Science Intern
